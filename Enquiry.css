@@ -1,0 +1,20 @@
+.enquiry{
+    width: 600px;
+    height: 800px;
+    background-color: lightgray;
+    border: 1px solid lightgray;
+    border-radius: 5%;
+    text-align: center;
+    margin: 0 auto;
+}
+label{
+    width: 150px;
+    text-align: left;
+}
+input{
+    width: 150px;
+}
+.message{
+    width: 150px;
+    height: 150px;
+}
